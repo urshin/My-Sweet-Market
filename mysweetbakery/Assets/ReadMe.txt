@@ -1,12 +1,17 @@
-#ÃâÃ³ÀÔ´Ï´Ù.
+#ì¶œì²˜ì…ë‹ˆë‹¤.
 
-¼Õ¸ğ¾ç Ä¿¼­
+ì†ëª¨ì–‘ ì»¤ì„œ
 Thoth/Cartoon UI Pack/Material/Cursor_Hand1
 https://assetstore.unity.com/packages/2d/gui/icons/minimalist-cartoon-ui-pack-123705
 
-¹«ÇÑ´ë ¸ğ¾ç È­»ìÇ¥
+ë¬´í•œëŒ€ ëª¨ì–‘ í™”ì‚´í‘œ
 Infinite Arrow
 https://www.pngwing.com/ko/free-png-agfbx
 
-Ãß°¡ ¿Àµğ¿À
+ì¶”ê°€ ì˜¤ë””ì˜¤
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-pack-sfx-197054#content
+https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708
+
+ì˜¤ë¸Œì íŠ¸ë“¤
+https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-lowpoly-pack-demo-301518
+https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235
